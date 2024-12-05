@@ -1,38 +1,72 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.button-one{
   color: white;
+  background-color: blue;
+  padding: 20px;
+  width: 400px;
+  border-radius:10px;
+  font-size: 20px;
+  border-width: 0px;
 }
-
-.App-link {
-  color: #61dafb;
+.button-two{
+  color: white;
+  background-color: #ff0095;
+  padding: 20px;
+  width: 400px;
+  border-radius:10px;
+  font-size: 20px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.button-three{
+  color: white;
+  background-color: #0099ff;
+  padding: 20px;
+  width: 400px;
+  border-radius:10px;
+  font-size: 20px;
+}
+.button-four{
+  color: white;
+  background-color: #b3ff00;
+  padding: 20px;
+  width: 400px;
+  border-radius:10px;
+  font-size: 20px;
+}
+.button-five{
+  color: white;
+  background-color: hsl(23, 100%, 50%);
+  padding: 20px;
+  width: 400px;
+  border-radius:10px;
+  font-size: 20px;
+}
+.button-six{
+  color: white;
+  background-color: #00ff77;
+  padding: 20px;
+  width: 400px;
+  border-radius:10px;
+  font-size: 20px;
+}
+.button-seven{
+  color: purple;
+  padding: 20px;
+  width: 400px;
+  font-size: 20px;
+  border-top-color: purple;
+  border-bottom-color: purple;
+  border-width: 3px;
+}
+.button-eight{
+  color: black;
+  padding: 20px;
+  width: 400px;
+  border-radius:50px;
+  font-size: 20px;
+}
+.button-nine{
+  color: black;
+  padding: 20px;
+  width: 400px;
+  border-radius:50px;
+  font-size: 12px;
 }
