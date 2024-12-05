@@ -18,17 +18,6 @@ function App() {
       <button className='button-seven'>Hello</button>
       <button className='button-eight'>Disabled</button>
       <button className='button-nine'>Custom inner view </button>
-      {/* <Button text="Hello" color="#FFC107" />
-      <Button text="Hello" color="#FF9800" />
-      <Button text="Hello" color="#F44336" />
-      <Button text="Hello" color="#00BCD4" />
-      <Button text="Hello" color="#4CAF50" />
-      <Button text="Hello" color="#2196F3" />
-      <Button text="Hello" color="#9C27B0" />
-      <OutlinedButton text="Hello" color="#9C27B0" />
-      <LoadingButton />
-      <DisabledButton text="Disabled" />
-      <OutlinedButton text="Custom inner view" color="#000" /> */}
     </div>
     </div>
   );
